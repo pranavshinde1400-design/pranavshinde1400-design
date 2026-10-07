@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Pranav Shinde 👋
 
-<!--
-**pranavshinde1400-design/pranavshinde1400-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Student | RTL & Verilog | Digital Design | VLSI
 
-Here are some ideas to get you started:
+I am an Electronics and Communication Engineering student
+interested in digital design, RTL development and VLSI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Verilog HDL and RTL design
+- Digital logic and computer architecture
+- Testbench development and simulation
+- FPGA-based design using Vivado
+
+## Technical Skills
+
+### HDL & Digital Design
+- Verilog HDL
+- Digital Electronics
+- RTL Design
+- Testbench Development
+- Xilinx Vivado
+
+### Tools
+- AMD/Xilinx Vivado
+- Git & GitHub
+- Basic Linux
+
+## Current Learning
+
+- Dataflow and Behavioral Verilog
+- Sequential RTL
+- FSM Design
+- FPGA Design
+
+## Projects
+
+- 4-bit Ripple Carry Adder
+- 4-bit Comparator
+- MUX and DEMUX Designs
+- Encoder and Decoder Designs
+
+## Goal
+
+To develop strong practical skills in RTL/VLSI design
+and gain industry experience through internships and projects.
